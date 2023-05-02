@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+red
+>>>>>>> Stashed changes
 yellow
 blue
 green
+yellow
