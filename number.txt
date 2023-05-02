@@ -1,3 +1,5 @@
-yellow
-blue
-red
+one
+three
+five
+seven
+nine
